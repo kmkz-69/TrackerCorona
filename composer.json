@@ -1,0 +1,16 @@
+{
+    "name": "h4gee/corona-trac",
+    "description": "Corona Tracker with php api",
+    "authors": [
+        {
+            "name": "kmkz-69",
+            "email": "jayson77190@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "require": {}
+}
